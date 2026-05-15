@@ -1,0 +1,42 @@
+{
+  "name": "مفقس ابو يوسف الطائي",
+  "short_name": "المفقس",
+  "description": "نظام إدارة المفقس المتكامل",
+  "start_url": "/Hatching-app/",
+  "display": "standalone",
+  "theme_color": "#d4af37",
+  "background_color": "#0a0a0a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/Hatching-app/icons/icon-72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/Hatching-app/icons/icon-96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/Hatching-app/icons/icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/Hatching-app/icons/icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/Hatching-app/icons/icon-152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "/Hatching-app/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
